@@ -1,0 +1,9 @@
+data/raw_genomes/*.fna.gz
+data/raw_genomes/*.fna
+data/raw_genomes/*_assembly_report.txt
+data/reference_fragments/
+data/simulated_reads/
+data/kraken_db/
+embeddings/
+indices/
+results/
