@@ -7,3 +7,4 @@ data/kraken_db/
 embeddings/
 indices/
 results/
+metadata/read_truth.tsv
