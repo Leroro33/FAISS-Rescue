@@ -8,3 +8,4 @@ embeddings/
 indices/
 results/
 metadata/read_truth.tsv
+metadata/rescue_reads.tsv
