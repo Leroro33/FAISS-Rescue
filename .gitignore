@@ -10,3 +10,4 @@ results/
 metadata/read_truth.tsv
 metadata/rescue_reads.tsv
 metadata/fragments.tsv
+logs/
