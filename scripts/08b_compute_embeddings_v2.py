@@ -201,7 +201,7 @@ def build_reference_counts():
         opener = gzip.open if fp.suffix == ".gz" else open
         with opener(fp, "rt") as h:
             for rec in SeqIO.parse(h, "fasta"):
-                row_i = id_to_row.get(rec.id)
+                row_i = id_to_row.get(rec.id.split("|", 1)[0])
                 if row_i is None:
                     continue
                 counts[row_i] = embed_sequence(str(rec.seq))
