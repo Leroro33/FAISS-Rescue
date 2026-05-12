@@ -85,7 +85,7 @@ RESCUE_IDS_OUT    = EMB_DIR / "rescue_ids_v3.tsv"
 IDF_OUT           = EMB_DIR / "idf_weights_v3.npy"
 
 K                 = 7      # k-mer length (same as V1 — keep apples-to-apples)
-DIM               = 2048    # embedding dimension (same as V1)
+DIM               = 768    # embedding dimension (same as V1)
 HASH_SEED         = 0xC0FFEE
 # ──────────────────────────────────────────────────────────────────────────────
 
