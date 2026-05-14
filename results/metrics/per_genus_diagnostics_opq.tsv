@@ -1,0 +1,10 @@
+true_genus	n_rescue_reads	n_correct	n_wrong	recall	most_common_wrong_genus	most_common_wrong_count
+Mycobacterium	12321	12269	52	0.9957795633471309	Pseudomonas	26
+Streptococcus	434927	334072	100855	0.7681105104994631	Staphylococcus	49878
+Klebsiella	1161285	607809	553476	0.5233934822201268	Pseudomonas	284238
+Staphylococcus	8618	4330	4288	0.502436760269204	Acinetobacter	1988
+Pseudomonas	49043	22560	26483	0.46000448585934794	Streptococcus	6149
+Acinetobacter	36768	9099	27669	0.2474706266318538	Streptococcus	11739
+Listeria	26387	6097	20290	0.23106074961155115	Staphylococcus	8447
+Escherichia	140979	30246	110733	0.2145425914497904	Streptococcus	29616
+Salmonella	17263	2042	15221	0.11828766726524938	Streptococcus	3637

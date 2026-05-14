@@ -1,0 +1,10 @@
+genus	n_reads	kraken_recall	hybrid_recall	kraken_precision	hybrid_precision	delta_recall
+Klebsiella	1161285	0.0	0.32	0.0	0.32	0.32
+Streptococcus	434927	0.0	0.6475	0.0	0.6475	0.6475
+Escherichia	140979	0.0	0.1221	0.0	0.1221	0.1221
+Pseudomonas	49043	0.0	0.4919	0.0	0.4919	0.4919
+Acinetobacter	36768	0.0	0.2441	0.0	0.2441	0.2441
+Listeria	26387	0.0	0.2092	0.0	0.2092	0.2092
+Salmonella	17263	0.0	0.0646	0.0	0.0646	0.0646
+Mycobacterium	12321	0.0	0.9976	0.0	0.9976	0.9976
+Staphylococcus	8618	0.0	0.3648	0.0	0.3648	0.3648
