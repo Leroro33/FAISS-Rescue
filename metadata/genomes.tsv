@@ -1,166 +1,166 @@
-genome_id	genus	species	accession	assembly_level	fasta_path
-G1	Acinetobacter	baumannii	GCF_040149195.2	Complete Genome	data/raw_genomes/GCF_040149195.2_ASM4014919v2_genomic.fna.gz
-G2	Streptococcus	pyogenes	GCF_051530265.1	Complete Genome	data/raw_genomes/GCF_051530265.1_ASM5153026v1_genomic.fna.gz
-G3	Streptococcus	pyogenes	GCF_051530275.1	Complete Genome	data/raw_genomes/GCF_051530275.1_ASM5153027v1_genomic.fna.gz
-G4	Streptococcus	pyogenes	GCF_051530285.1	Complete Genome	data/raw_genomes/GCF_051530285.1_ASM5153028v1_genomic.fna.gz
-G5	Streptococcus	pyogenes	GCF_051530295.1	Complete Genome	data/raw_genomes/GCF_051530295.1_ASM5153029v1_genomic.fna.gz
-G6	Streptococcus	pyogenes	GCF_051530305.1	Complete Genome	data/raw_genomes/GCF_051530305.1_ASM5153030v1_genomic.fna.gz
-G7	Streptococcus	pyogenes	GCF_051530315.1	Complete Genome	data/raw_genomes/GCF_051530315.1_ASM5153031v1_genomic.fna.gz
-G8	Streptococcus	pyogenes	GCF_051530325.1	Complete Genome	data/raw_genomes/GCF_051530325.1_ASM5153032v1_genomic.fna.gz
-G9	Streptococcus	pyogenes	GCF_051530335.1	Complete Genome	data/raw_genomes/GCF_051530335.1_ASM5153033v1_genomic.fna.gz
-G10	Streptococcus	pyogenes	GCF_051530345.1	Complete Genome	data/raw_genomes/GCF_051530345.1_ASM5153034v1_genomic.fna.gz
-G11	Streptococcus	pyogenes	GCF_051530355.1	Complete Genome	data/raw_genomes/GCF_051530355.1_ASM5153035v1_genomic.fna.gz
-G12	Streptococcus	pyogenes	GCF_051530365.1	Complete Genome	data/raw_genomes/GCF_051530365.1_ASM5153036v1_genomic.fna.gz
-G13	Streptococcus	pyogenes	GCF_051530375.1	Complete Genome	data/raw_genomes/GCF_051530375.1_ASM5153037v1_genomic.fna.gz
-G14	Streptococcus	pyogenes	GCF_051530385.1	Complete Genome	data/raw_genomes/GCF_051530385.1_ASM5153038v1_genomic.fna.gz
-G15	Streptococcus	agalactiae	GCF_051546175.1	Complete Genome	data/raw_genomes/GCF_051546175.1_ASM5154617v1_genomic.fna.gz
-G16	Streptococcus	agalactiae	GCF_051546185.1	Complete Genome	data/raw_genomes/GCF_051546185.1_ASM5154618v1_genomic.fna.gz
-G17	Streptococcus	agalactiae	GCF_051546195.1	Complete Genome	data/raw_genomes/GCF_051546195.1_ASM5154619v1_genomic.fna.gz
-G18	Streptococcus	agalactiae	GCF_051546205.1	Complete Genome	data/raw_genomes/GCF_051546205.1_ASM5154620v1_genomic.fna.gz
-G19	Streptococcus	pyogenes	GCF_051628085.1	Complete Genome	data/raw_genomes/GCF_051628085.1_ASM5162808v1_genomic.fna.gz
-G20	Streptococcus	agalactiae	GCF_052343055.1	Complete Genome	data/raw_genomes/GCF_052343055.1_ASM5234305v1_genomic.fna.gz
-G21	Streptococcus	agalactiae	GCF_052343185.1	Complete Genome	data/raw_genomes/GCF_052343185.1_ASM5234318v1_genomic.fna.gz
-G22	Streptococcus	agalactiae	GCF_052343195.1	Complete Genome	data/raw_genomes/GCF_052343195.1_ASM5234319v1_genomic.fna.gz
-G23	Streptococcus	agalactiae	GCF_052343385.1	Complete Genome	data/raw_genomes/GCF_052343385.1_ASM5234338v1_genomic.fna.gz
-G24	Streptococcus	agalactiae	GCF_052343395.1	Complete Genome	data/raw_genomes/GCF_052343395.1_ASM5234339v1_genomic.fna.gz
-G25	Streptococcus	agalactiae	GCF_052343525.1	Complete Genome	data/raw_genomes/GCF_052343525.1_ASM5234352v1_genomic.fna.gz
-G26	Streptococcus	agalactiae	GCF_052343535.1	Complete Genome	data/raw_genomes/GCF_052343535.1_ASM5234353v1_genomic.fna.gz
-G27	Streptococcus	agalactiae	GCF_052343785.1	Complete Genome	data/raw_genomes/GCF_052343785.1_ASM5234378v1_genomic.fna.gz
-G28	Streptococcus	agalactiae	GCF_052343795.1	Complete Genome	data/raw_genomes/GCF_052343795.1_ASM5234379v1_genomic.fna.gz
-G29	Streptococcus	agalactiae	GCF_052344085.1	Complete Genome	data/raw_genomes/GCF_052344085.1_ASM5234408v1_genomic.fna.gz
-G30	Streptococcus	pneumoniae	GCF_052434515.1	Complete Genome	data/raw_genomes/GCF_052434515.1_ASM5243451v1_genomic.fna.gz
-G31	Streptococcus	pneumoniae	GCF_052434525.1	Complete Genome	data/raw_genomes/GCF_052434525.1_ASM5243452v1_genomic.fna.gz
-G32	Streptococcus	pneumoniae	GCF_052434725.1	Complete Genome	data/raw_genomes/GCF_052434725.1_ASM5243472v1_genomic.fna.gz
-G33	Streptococcus	pneumoniae	GCF_052434765.1	Complete Genome	data/raw_genomes/GCF_052434765.1_ASM5243476v1_genomic.fna.gz
-G34	Streptococcus	pneumoniae	GCF_052434975.1	Complete Genome	data/raw_genomes/GCF_052434975.1_ASM5243497v1_genomic.fna.gz
-G35	Streptococcus	pneumoniae	GCF_052434985.1	Complete Genome	data/raw_genomes/GCF_052434985.1_ASM5243498v1_genomic.fna.gz
-G36	Streptococcus	pneumoniae	GCF_052566715.1	Complete Genome	data/raw_genomes/GCF_052566715.1_ASM5256671v1_genomic.fna.gz
-G37	Streptococcus	pneumoniae	GCF_052566725.1	Complete Genome	data/raw_genomes/GCF_052566725.1_ASM5256672v1_genomic.fna.gz
-G38	Streptococcus	agalactiae	GCF_052783735.1	Complete Genome	data/raw_genomes/GCF_052783735.1_ASM5278373v1_genomic.fna.gz
-G39	Streptococcus	pneumoniae	GCF_052955725.1	Complete Genome	data/raw_genomes/GCF_052955725.1_ASM5295572v1_genomic.fna.gz
-G40	Salmonella	enterica	GCF_054506845.1	Complete Genome	data/raw_genomes/GCF_054506845.1_ASM5450684v1_genomic.fna.gz
-G41	Listeria	monocytogenes	GCF_054506985.1	Complete Genome	data/raw_genomes/GCF_054506985.1_ASM5450698v1_genomic.fna.gz
-G42	Salmonella	enterica	GCF_054733495.1	Complete Genome	data/raw_genomes/GCF_054733495.1_ASM5473349v1_genomic.fna.gz
-G43	Salmonella	enterica	GCF_054733885.1	Complete Genome	data/raw_genomes/GCF_054733885.1_ASM5473388v1_genomic.fna.gz
-G44	Salmonella	enterica	GCF_054734275.1	Complete Genome	data/raw_genomes/GCF_054734275.1_ASM5473427v1_genomic.fna.gz
-G45	Salmonella	enterica	GCF_054734525.1	Complete Genome	data/raw_genomes/GCF_054734525.1_ASM5473452v1_genomic.fna.gz
-G46	Salmonella	enterica	GCF_054734815.1	Complete Genome	data/raw_genomes/GCF_054734815.1_ASM5473481v1_genomic.fna.gz
-G47	Listeria	monocytogenes	GCF_054790915.1	Complete Genome	data/raw_genomes/GCF_054790915.1_ASM5479091v1_genomic.fna.gz
-G48	Mycobacterium	tuberculosis	GCF_054790985.1	Complete Genome	data/raw_genomes/GCF_054790985.1_ASM5479098v1_genomic.fna.gz
-G49	Mycobacterium	tuberculosis	GCF_054791025.1	Complete Genome	data/raw_genomes/GCF_054791025.1_ASM5479102v1_genomic.fna.gz
-G50	Mycobacterium	tuberculosis	GCF_054791035.1	Complete Genome	data/raw_genomes/GCF_054791035.1_ASM5479103v1_genomic.fna.gz
-G51	Acinetobacter	baumannii	GCF_054898305.1	Complete Genome	data/raw_genomes/GCF_054898305.1_ASM5489830v1_genomic.fna.gz
-G52	Acinetobacter	baumannii	GCF_054898315.1	Complete Genome	data/raw_genomes/GCF_054898315.1_ASM5489831v1_genomic.fna.gz
-G53	Acinetobacter	baumannii	GCF_054898325.1	Complete Genome	data/raw_genomes/GCF_054898325.1_ASM5489832v1_genomic.fna.gz
-G54	Acinetobacter	baumannii	GCF_054898335.1	Complete Genome	data/raw_genomes/GCF_054898335.1_ASM5489833v1_genomic.fna.gz
-G55	Acinetobacter	baumannii	GCF_054898345.1	Complete Genome	data/raw_genomes/GCF_054898345.1_ASM5489834v1_genomic.fna.gz
-G56	Acinetobacter	baumannii	GCF_054898355.1	Complete Genome	data/raw_genomes/GCF_054898355.1_ASM5489835v1_genomic.fna.gz
-G57	Acinetobacter	baumannii	GCF_054898365.1	Complete Genome	data/raw_genomes/GCF_054898365.1_ASM5489836v1_genomic.fna.gz
-G58	Acinetobacter	baumannii	GCF_054898375.1	Complete Genome	data/raw_genomes/GCF_054898375.1_ASM5489837v1_genomic.fna.gz
-G59	Acinetobacter	baumannii	GCF_054898395.1	Complete Genome	data/raw_genomes/GCF_054898395.1_ASM5489839v1_genomic.fna.gz
-G60	Acinetobacter	baumannii	GCF_054898405.1	Complete Genome	data/raw_genomes/GCF_054898405.1_ASM5489840v1_genomic.fna.gz
-G61	Listeria	monocytogenes	GCF_054899705.1	Complete Genome	data/raw_genomes/GCF_054899705.1_ASM5489970v1_genomic.fna.gz
-G62	Streptococcus	pyogenes	GCF_055378755.1	Complete Genome	data/raw_genomes/GCF_055378755.1_ASM5537875v1_genomic.fna.gz
-G63	Streptococcus	pneumoniae	GCF_055380575.1	Complete Genome	data/raw_genomes/GCF_055380575.1_ASM5538057v1_genomic.fna.gz
-G64	Streptococcus	pneumoniae	GCF_055381005.1	Complete Genome	data/raw_genomes/GCF_055381005.1_ASM5538100v1_genomic.fna.gz
-G65	Acinetobacter	baumannii	GCF_055381115.1	Complete Genome	data/raw_genomes/GCF_055381115.1_ASM5538111v1_genomic.fna.gz
-G66	Streptococcus	pneumoniae	GCF_055381415.1	Complete Genome	data/raw_genomes/GCF_055381415.1_ASM5538141v1_genomic.fna.gz
-G67	Acinetobacter	baumannii	GCF_055381525.1	Complete Genome	data/raw_genomes/GCF_055381525.1_ASM5538152v1_genomic.fna.gz
-G68	Streptococcus	pneumoniae	GCF_055381835.1	Complete Genome	data/raw_genomes/GCF_055381835.1_ASM5538183v1_genomic.fna.gz
-G69	Streptococcus	pneumoniae	GCF_055382275.1	Complete Genome	data/raw_genomes/GCF_055382275.1_ASM5538227v1_genomic.fna.gz
-G70	Streptococcus	pneumoniae	GCF_055382695.1	Complete Genome	data/raw_genomes/GCF_055382695.1_ASM5538269v1_genomic.fna.gz
-G71	Pseudomonas	aeruginosa	GCF_055386395.1	Complete Genome	data/raw_genomes/GCF_055386395.1_ASM5538639v1_genomic.fna.gz
-G72	Acinetobacter	baumannii	GCF_055386835.1	Complete Genome	data/raw_genomes/GCF_055386835.1_ASM5538683v1_genomic.fna.gz
-G73	Salmonella	enterica	GCF_055390985.1	Complete Genome	data/raw_genomes/GCF_055390985.1_ASM5539098v1_genomic.fna.gz
-G74	Pseudomonas	aeruginosa	GCF_055391165.1	Complete Genome	data/raw_genomes/GCF_055391165.1_ASM5539116v1_genomic.fna.gz
-G75	Salmonella	enterica	GCF_055391385.1	Complete Genome	data/raw_genomes/GCF_055391385.1_ASM5539138v1_genomic.fna.gz
-G76	Salmonella	enterica	GCF_055391765.1	Complete Genome	data/raw_genomes/GCF_055391765.1_ASM5539176v1_genomic.fna.gz
-G77	Salmonella	enterica	GCF_055392165.1	Complete Genome	data/raw_genomes/GCF_055392165.1_ASM5539216v1_genomic.fna.gz
-G78	Staphylococcus	aureus	GCF_055392225.1	Complete Genome	data/raw_genomes/GCF_055392225.1_ASM5539222v1_genomic.fna.gz
-G79	Salmonella	enterica	GCF_055392385.1	Complete Genome	data/raw_genomes/GCF_055392385.1_ASM5539238v1_genomic.fna.gz
-G80	Staphylococcus	aureus	GCF_055392865.1	Complete Genome	data/raw_genomes/GCF_055392865.1_ASM5539286v1_genomic.fna.gz
-G81	Salmonella	enterica	GCF_055392925.1	Complete Genome	data/raw_genomes/GCF_055392925.1_ASM5539292v1_genomic.fna.gz
-G82	Staphylococcus	aureus	GCF_055393085.1	Complete Genome	data/raw_genomes/GCF_055393085.1_ASM5539308v1_genomic.fna.gz
-G83	Salmonella	enterica	GCF_055393125.1	Complete Genome	data/raw_genomes/GCF_055393125.1_ASM5539312v1_genomic.fna.gz
-G84	Staphylococcus	aureus	GCF_055393695.1	Complete Genome	data/raw_genomes/GCF_055393695.1_ASM5539369v1_genomic.fna.gz
-G85	Salmonella	enterica	GCF_055393775.1	Complete Genome	data/raw_genomes/GCF_055393775.1_ASM5539377v1_genomic.fna.gz
-G86	Staphylococcus	aureus	GCF_055394105.1	Complete Genome	data/raw_genomes/GCF_055394105.1_ASM5539410v1_genomic.fna.gz
-G87	Salmonella	enterica	GCF_055394145.1	Complete Genome	data/raw_genomes/GCF_055394145.1_ASM5539414v1_genomic.fna.gz
-G88	Staphylococcus	aureus	GCF_055394255.1	Complete Genome	data/raw_genomes/GCF_055394255.1_ASM5539425v1_genomic.fna.gz
-G89	Staphylococcus	aureus	GCF_055394555.1	Complete Genome	data/raw_genomes/GCF_055394555.1_ASM5539455v1_genomic.fna.gz
-G90	Staphylococcus	aureus	GCF_055394755.1	Complete Genome	data/raw_genomes/GCF_055394755.1_ASM5539475v1_genomic.fna.gz
-G91	Staphylococcus	aureus	GCF_055395395.1	Complete Genome	data/raw_genomes/GCF_055395395.1_ASM5539539v1_genomic.fna.gz
-G92	Staphylococcus	aureus	GCF_055395785.1	Complete Genome	data/raw_genomes/GCF_055395785.1_ASM5539578v1_genomic.fna.gz
-G93	Staphylococcus	aureus	GCF_055396015.1	Complete Genome	data/raw_genomes/GCF_055396015.1_ASM5539601v1_genomic.fna.gz
-G94	Staphylococcus	aureus	GCF_055396615.1	Complete Genome	data/raw_genomes/GCF_055396615.1_ASM5539661v1_genomic.fna.gz
-G95	Staphylococcus	aureus	GCF_055396715.1	Complete Genome	data/raw_genomes/GCF_055396715.1_ASM5539671v1_genomic.fna.gz
-G96	Staphylococcus	aureus	GCF_055398275.1	Complete Genome	data/raw_genomes/GCF_055398275.1_ASM5539827v1_genomic.fna.gz
-G97	Pseudomonas	aeruginosa	GCF_055432695.1	Complete Genome	data/raw_genomes/GCF_055432695.1_ASM5543269v1_genomic.fna.gz
-G98	Pseudomonas	aeruginosa	GCF_055432725.1	Complete Genome	data/raw_genomes/GCF_055432725.1_ASM5543272v1_genomic.fna.gz
-G99	Pseudomonas	aeruginosa	GCF_055433015.1	Complete Genome	data/raw_genomes/GCF_055433015.1_ASM5543301v1_genomic.fna.gz
-G100	Pseudomonas	aeruginosa	GCF_055433025.1	Complete Genome	data/raw_genomes/GCF_055433025.1_ASM5543302v1_genomic.fna.gz
-G101	Pseudomonas	aeruginosa	GCF_055433155.1	Complete Genome	data/raw_genomes/GCF_055433155.1_ASM5543315v1_genomic.fna.gz
-G102	Pseudomonas	aeruginosa	GCF_055433165.1	Complete Genome	data/raw_genomes/GCF_055433165.1_ASM5543316v1_genomic.fna.gz
-G103	Pseudomonas	aeruginosa	GCF_055433175.1	Complete Genome	data/raw_genomes/GCF_055433175.1_ASM5543317v1_genomic.fna.gz
-G104	Pseudomonas	aeruginosa	GCF_055433185.1	Complete Genome	data/raw_genomes/GCF_055433185.1_ASM5543318v1_genomic.fna.gz
-G105	Pseudomonas	aeruginosa	GCF_055433215.1	Complete Genome	data/raw_genomes/GCF_055433215.1_ASM5543321v1_genomic.fna.gz
-G106	Acinetobacter	baumannii	GCF_055475405.1	Complete Genome	data/raw_genomes/GCF_055475405.1_ASM5547540v1_genomic.fna.gz
-G107	Escherichia	coli	GCF_055697635.1	Complete Genome	data/raw_genomes/GCF_055697635.1_ASM5569763v1_genomic.fna.gz
-G108	Escherichia	coli	GCF_055698055.1	Complete Genome	data/raw_genomes/GCF_055698055.1_ASM5569805v1_genomic.fna.gz
-G109	Escherichia	coli	GCF_055698065.1	Complete Genome	data/raw_genomes/GCF_055698065.1_ASM5569806v1_genomic.fna.gz
-G110	Escherichia	coli	GCF_055698175.1	Complete Genome	data/raw_genomes/GCF_055698175.1_ASM5569817v1_genomic.fna.gz
-G111	Escherichia	coli	GCF_055698185.1	Complete Genome	data/raw_genomes/GCF_055698185.1_ASM5569818v1_genomic.fna.gz
-G112	Escherichia	coli	GCF_055698195.1	Complete Genome	data/raw_genomes/GCF_055698195.1_ASM5569819v1_genomic.fna.gz
-G113	Escherichia	coli	GCF_055698205.1	Complete Genome	data/raw_genomes/GCF_055698205.1_ASM5569820v1_genomic.fna.gz
-G114	Escherichia	coli	GCF_055698215.1	Complete Genome	data/raw_genomes/GCF_055698215.1_ASM5569821v1_genomic.fna.gz
-G115	Staphylococcus	aureus	GCF_055699085.1	Complete Genome	data/raw_genomes/GCF_055699085.1_ASM5569908v1_genomic.fna.gz
-G116	Escherichia	coli	GCF_055814345.1	Complete Genome	data/raw_genomes/GCF_055814345.1_ASM5581434v1_genomic.fna.gz
-G117	Escherichia	coli	GCF_055814355.1	Complete Genome	data/raw_genomes/GCF_055814355.1_ASM5581435v1_genomic.fna.gz
-G118	Escherichia	coli	GCF_055814365.1	Complete Genome	data/raw_genomes/GCF_055814365.1_ASM5581436v1_genomic.fna.gz
-G119	Escherichia	coli	GCF_055814375.1	Complete Genome	data/raw_genomes/GCF_055814375.1_ASM5581437v1_genomic.fna.gz
-G120	Escherichia	coli	GCF_055814385.1	Complete Genome	data/raw_genomes/GCF_055814385.1_ASM5581438v1_genomic.fna.gz
-G121	Escherichia	coli	GCF_055814395.1	Complete Genome	data/raw_genomes/GCF_055814395.1_ASM5581439v1_genomic.fna.gz
-G122	Klebsiella	pneumoniae	GCF_055824705.1	Complete Genome	data/raw_genomes/GCF_055824705.1_ASM5582470v1_genomic.fna.gz
-G123	Klebsiella	pneumoniae	GCF_055824715.1	Complete Genome	data/raw_genomes/GCF_055824715.1_ASM5582471v1_genomic.fna.gz
-G124	Klebsiella	pneumoniae	GCF_055824725.1	Complete Genome	data/raw_genomes/GCF_055824725.1_ASM5582472v1_genomic.fna.gz
-G125	Klebsiella	pneumoniae	GCF_055824735.1	Complete Genome	data/raw_genomes/GCF_055824735.1_ASM5582473v1_genomic.fna.gz
-G126	Klebsiella	pneumoniae	GCF_055824745.1	Complete Genome	data/raw_genomes/GCF_055824745.1_ASM5582474v1_genomic.fna.gz
-G127	Klebsiella	pneumoniae	GCF_055824765.1	Complete Genome	data/raw_genomes/GCF_055824765.1_ASM5582476v1_genomic.fna.gz
-G128	Klebsiella	pneumoniae	GCF_055824775.1	Complete Genome	data/raw_genomes/GCF_055824775.1_ASM5582477v1_genomic.fna.gz
-G129	Klebsiella	pneumoniae	GCF_055824795.1	Complete Genome	data/raw_genomes/GCF_055824795.1_ASM5582479v1_genomic.fna.gz
-G130	Klebsiella	pneumoniae	GCF_055824805.1	Complete Genome	data/raw_genomes/GCF_055824805.1_ASM5582480v1_genomic.fna.gz
-G131	Klebsiella	pneumoniae	GCF_055824905.1	Complete Genome	data/raw_genomes/GCF_055824905.1_ASM5582490v1_genomic.fna.gz
-G132	Klebsiella	pneumoniae	GCF_055824915.1	Complete Genome	data/raw_genomes/GCF_055824915.1_ASM5582491v1_genomic.fna.gz
-G133	Klebsiella	pneumoniae	GCF_055825125.1	Complete Genome	data/raw_genomes/GCF_055825125.1_ASM5582512v1_genomic.fna.gz
-G134	Klebsiella	pneumoniae	GCF_055825135.1	Complete Genome	data/raw_genomes/GCF_055825135.1_ASM5582513v1_genomic.fna.gz
-G135	Klebsiella	pneumoniae	GCF_055825155.1	Complete Genome	data/raw_genomes/GCF_055825155.1_ASM5582515v1_genomic.fna.gz
-G136	Pseudomonas	aeruginosa	GCF_056008435.1	Complete Genome	data/raw_genomes/GCF_056008435.1_ASM5600843v1_genomic.fna.gz
-G137	Pseudomonas	aeruginosa	GCF_056008605.1	Complete Genome	data/raw_genomes/GCF_056008605.1_ASM5600860v1_genomic.fna.gz
-G138	Pseudomonas	aeruginosa	GCF_056008615.1	Complete Genome	data/raw_genomes/GCF_056008615.1_ASM5600861v1_genomic.fna.gz
-G139	Klebsiella	pneumoniae	GCF_056092675.1	Complete Genome	data/raw_genomes/GCF_056092675.1_ASM5609267v1_genomic.fna.gz
-G140	Listeria	monocytogenes	GCF_056232715.1	Complete Genome	data/raw_genomes/GCF_056232715.1_ASM5623271v1_genomic.fna.gz
-G141	Pseudomonas	aeruginosa	GCF_056236775.1	Complete Genome	data/raw_genomes/GCF_056236775.1_ASM5623677v1_genomic.fna.gz
-G142	Escherichia	coli	GCF_056237465.1	Complete Genome	data/raw_genomes/GCF_056237465.1_ASM5623746v1_genomic.fna.gz
-G143	Listeria	monocytogenes	GCF_056239255.1	Complete Genome	data/raw_genomes/GCF_056239255.1_ASM5623925v1_genomic.fna.gz
-G144	Listeria	monocytogenes	GCF_056239325.1	Complete Genome	data/raw_genomes/GCF_056239325.1_ASM5623932v1_genomic.fna.gz
-G145	Listeria	monocytogenes	GCF_056239845.1	Complete Genome	data/raw_genomes/GCF_056239845.1_ASM5623984v1_genomic.fna.gz
-G146	Listeria	monocytogenes	GCF_056239965.1	Complete Genome	data/raw_genomes/GCF_056239965.1_ASM5623996v1_genomic.fna.gz
-G147	Listeria	monocytogenes	GCF_056240395.1	Complete Genome	data/raw_genomes/GCF_056240395.1_ASM5624039v1_genomic.fna.gz
-G148	Listeria	monocytogenes	GCF_056240465.1	Complete Genome	data/raw_genomes/GCF_056240465.1_ASM5624046v1_genomic.fna.gz
-G149	Listeria	monocytogenes	GCF_056240975.1	Complete Genome	data/raw_genomes/GCF_056240975.1_ASM5624097v1_genomic.fna.gz
-G150	Listeria	monocytogenes	GCF_056241085.1	Complete Genome	data/raw_genomes/GCF_056241085.1_ASM5624108v1_genomic.fna.gz
-G151	Listeria	monocytogenes	GCF_056241555.1	Complete Genome	data/raw_genomes/GCF_056241555.1_ASM5624155v1_genomic.fna.gz
-G152	Listeria	monocytogenes	GCF_056241665.1	Complete Genome	data/raw_genomes/GCF_056241665.1_ASM5624166v1_genomic.fna.gz
-G153	Listeria	monocytogenes	GCF_056242145.1	Complete Genome	data/raw_genomes/GCF_056242145.1_ASM5624214v1_genomic.fna.gz
-G154	Mycobacterium	tuberculosis	GCF_977011355.1	Complete Genome	data/raw_genomes/GCF_977011355.1_K34X0146_genomic.fna.gz
-G155	Mycobacterium	tuberculosis	GCF_977011365.1	Complete Genome	data/raw_genomes/GCF_977011365.1_K51TAT086_genomic.fna.gz
-G156	Mycobacterium	tuberculosis	GCF_977011405.1	Complete Genome	data/raw_genomes/GCF_977011405.1_K39T0596_genomic.fna.gz
-G157	Mycobacterium	tuberculosis	GCF_977011435.1	Complete Genome	data/raw_genomes/GCF_977011435.1_K49KI114_genomic.fna.gz
-G158	Mycobacterium	tuberculosis	GCF_977011475.1	Complete Genome	data/raw_genomes/GCF_977011475.1_K31X0989_genomic.fna.gz
-G159	Mycobacterium	tuberculosis	GCF_977011495.1	Complete Genome	data/raw_genomes/GCF_977011495.1_K17T0895_genomic.fna.gz
-G160	Mycobacterium	tuberculosis	GCF_977011515.1	Complete Genome	data/raw_genomes/GCF_977011515.1_K22F0002_genomic.fna.gz
-G161	Mycobacterium	tuberculosis	GCF_977011555.1	Complete Genome	data/raw_genomes/GCF_977011555.1_K35X0801_genomic.fna.gz
-G162	Mycobacterium	tuberculosis	GCF_977011595.1	Complete Genome	data/raw_genomes/GCF_977011595.1_K26T1158_genomic.fna.gz
-G163	Mycobacterium	tuberculosis	GCF_978422695.1	Complete Genome	data/raw_genomes/GCF_978422695.1_CHPF138_genomic.fna.gz
-G164	Mycobacterium	tuberculosis	GCF_982191695.1	Complete Genome	data/raw_genomes/GCF_982191695.1_H37Rv_CN_genomic.fna.gz
-G165	Mycobacterium	tuberculosis	GCF_982191705.1	Complete Genome	data/raw_genomes/GCF_982191705.1_A2018772_genomic.fna.gz
+genome_id	genus	species	accession	assembly_level	fasta_path	family
+G1	Acinetobacter	baumannii	GCF_040149195.2	Complete Genome	data/raw_genomes/GCF_040149195.2_ASM4014919v2_genomic.fna.gz	Moraxellaceae
+G2	Streptococcus	pyogenes	GCF_051530265.1	Complete Genome	data/raw_genomes/GCF_051530265.1_ASM5153026v1_genomic.fna.gz	Streptococcaceae
+G3	Streptococcus	pyogenes	GCF_051530275.1	Complete Genome	data/raw_genomes/GCF_051530275.1_ASM5153027v1_genomic.fna.gz	Streptococcaceae
+G4	Streptococcus	pyogenes	GCF_051530285.1	Complete Genome	data/raw_genomes/GCF_051530285.1_ASM5153028v1_genomic.fna.gz	Streptococcaceae
+G5	Streptococcus	pyogenes	GCF_051530295.1	Complete Genome	data/raw_genomes/GCF_051530295.1_ASM5153029v1_genomic.fna.gz	Streptococcaceae
+G6	Streptococcus	pyogenes	GCF_051530305.1	Complete Genome	data/raw_genomes/GCF_051530305.1_ASM5153030v1_genomic.fna.gz	Streptococcaceae
+G7	Streptococcus	pyogenes	GCF_051530315.1	Complete Genome	data/raw_genomes/GCF_051530315.1_ASM5153031v1_genomic.fna.gz	Streptococcaceae
+G8	Streptococcus	pyogenes	GCF_051530325.1	Complete Genome	data/raw_genomes/GCF_051530325.1_ASM5153032v1_genomic.fna.gz	Streptococcaceae
+G9	Streptococcus	pyogenes	GCF_051530335.1	Complete Genome	data/raw_genomes/GCF_051530335.1_ASM5153033v1_genomic.fna.gz	Streptococcaceae
+G10	Streptococcus	pyogenes	GCF_051530345.1	Complete Genome	data/raw_genomes/GCF_051530345.1_ASM5153034v1_genomic.fna.gz	Streptococcaceae
+G11	Streptococcus	pyogenes	GCF_051530355.1	Complete Genome	data/raw_genomes/GCF_051530355.1_ASM5153035v1_genomic.fna.gz	Streptococcaceae
+G12	Streptococcus	pyogenes	GCF_051530365.1	Complete Genome	data/raw_genomes/GCF_051530365.1_ASM5153036v1_genomic.fna.gz	Streptococcaceae
+G13	Streptococcus	pyogenes	GCF_051530375.1	Complete Genome	data/raw_genomes/GCF_051530375.1_ASM5153037v1_genomic.fna.gz	Streptococcaceae
+G14	Streptococcus	pyogenes	GCF_051530385.1	Complete Genome	data/raw_genomes/GCF_051530385.1_ASM5153038v1_genomic.fna.gz	Streptococcaceae
+G15	Streptococcus	agalactiae	GCF_051546175.1	Complete Genome	data/raw_genomes/GCF_051546175.1_ASM5154617v1_genomic.fna.gz	Streptococcaceae
+G16	Streptococcus	agalactiae	GCF_051546185.1	Complete Genome	data/raw_genomes/GCF_051546185.1_ASM5154618v1_genomic.fna.gz	Streptococcaceae
+G17	Streptococcus	agalactiae	GCF_051546195.1	Complete Genome	data/raw_genomes/GCF_051546195.1_ASM5154619v1_genomic.fna.gz	Streptococcaceae
+G18	Streptococcus	agalactiae	GCF_051546205.1	Complete Genome	data/raw_genomes/GCF_051546205.1_ASM5154620v1_genomic.fna.gz	Streptococcaceae
+G19	Streptococcus	pyogenes	GCF_051628085.1	Complete Genome	data/raw_genomes/GCF_051628085.1_ASM5162808v1_genomic.fna.gz	Streptococcaceae
+G20	Streptococcus	agalactiae	GCF_052343055.1	Complete Genome	data/raw_genomes/GCF_052343055.1_ASM5234305v1_genomic.fna.gz	Streptococcaceae
+G21	Streptococcus	agalactiae	GCF_052343185.1	Complete Genome	data/raw_genomes/GCF_052343185.1_ASM5234318v1_genomic.fna.gz	Streptococcaceae
+G22	Streptococcus	agalactiae	GCF_052343195.1	Complete Genome	data/raw_genomes/GCF_052343195.1_ASM5234319v1_genomic.fna.gz	Streptococcaceae
+G23	Streptococcus	agalactiae	GCF_052343385.1	Complete Genome	data/raw_genomes/GCF_052343385.1_ASM5234338v1_genomic.fna.gz	Streptococcaceae
+G24	Streptococcus	agalactiae	GCF_052343395.1	Complete Genome	data/raw_genomes/GCF_052343395.1_ASM5234339v1_genomic.fna.gz	Streptococcaceae
+G25	Streptococcus	agalactiae	GCF_052343525.1	Complete Genome	data/raw_genomes/GCF_052343525.1_ASM5234352v1_genomic.fna.gz	Streptococcaceae
+G26	Streptococcus	agalactiae	GCF_052343535.1	Complete Genome	data/raw_genomes/GCF_052343535.1_ASM5234353v1_genomic.fna.gz	Streptococcaceae
+G27	Streptococcus	agalactiae	GCF_052343785.1	Complete Genome	data/raw_genomes/GCF_052343785.1_ASM5234378v1_genomic.fna.gz	Streptococcaceae
+G28	Streptococcus	agalactiae	GCF_052343795.1	Complete Genome	data/raw_genomes/GCF_052343795.1_ASM5234379v1_genomic.fna.gz	Streptococcaceae
+G29	Streptococcus	agalactiae	GCF_052344085.1	Complete Genome	data/raw_genomes/GCF_052344085.1_ASM5234408v1_genomic.fna.gz	Streptococcaceae
+G30	Streptococcus	pneumoniae	GCF_052434515.1	Complete Genome	data/raw_genomes/GCF_052434515.1_ASM5243451v1_genomic.fna.gz	Streptococcaceae
+G31	Streptococcus	pneumoniae	GCF_052434525.1	Complete Genome	data/raw_genomes/GCF_052434525.1_ASM5243452v1_genomic.fna.gz	Streptococcaceae
+G32	Streptococcus	pneumoniae	GCF_052434725.1	Complete Genome	data/raw_genomes/GCF_052434725.1_ASM5243472v1_genomic.fna.gz	Streptococcaceae
+G33	Streptococcus	pneumoniae	GCF_052434765.1	Complete Genome	data/raw_genomes/GCF_052434765.1_ASM5243476v1_genomic.fna.gz	Streptococcaceae
+G34	Streptococcus	pneumoniae	GCF_052434975.1	Complete Genome	data/raw_genomes/GCF_052434975.1_ASM5243497v1_genomic.fna.gz	Streptococcaceae
+G35	Streptococcus	pneumoniae	GCF_052434985.1	Complete Genome	data/raw_genomes/GCF_052434985.1_ASM5243498v1_genomic.fna.gz	Streptococcaceae
+G36	Streptococcus	pneumoniae	GCF_052566715.1	Complete Genome	data/raw_genomes/GCF_052566715.1_ASM5256671v1_genomic.fna.gz	Streptococcaceae
+G37	Streptococcus	pneumoniae	GCF_052566725.1	Complete Genome	data/raw_genomes/GCF_052566725.1_ASM5256672v1_genomic.fna.gz	Streptococcaceae
+G38	Streptococcus	agalactiae	GCF_052783735.1	Complete Genome	data/raw_genomes/GCF_052783735.1_ASM5278373v1_genomic.fna.gz	Streptococcaceae
+G39	Streptococcus	pneumoniae	GCF_052955725.1	Complete Genome	data/raw_genomes/GCF_052955725.1_ASM5295572v1_genomic.fna.gz	Streptococcaceae
+G40	Salmonella	enterica	GCF_054506845.1	Complete Genome	data/raw_genomes/GCF_054506845.1_ASM5450684v1_genomic.fna.gz	Enterobacteriaceae
+G41	Listeria	monocytogenes	GCF_054506985.1	Complete Genome	data/raw_genomes/GCF_054506985.1_ASM5450698v1_genomic.fna.gz	Listeriaceae
+G42	Salmonella	enterica	GCF_054733495.1	Complete Genome	data/raw_genomes/GCF_054733495.1_ASM5473349v1_genomic.fna.gz	Enterobacteriaceae
+G43	Salmonella	enterica	GCF_054733885.1	Complete Genome	data/raw_genomes/GCF_054733885.1_ASM5473388v1_genomic.fna.gz	Enterobacteriaceae
+G44	Salmonella	enterica	GCF_054734275.1	Complete Genome	data/raw_genomes/GCF_054734275.1_ASM5473427v1_genomic.fna.gz	Enterobacteriaceae
+G45	Salmonella	enterica	GCF_054734525.1	Complete Genome	data/raw_genomes/GCF_054734525.1_ASM5473452v1_genomic.fna.gz	Enterobacteriaceae
+G46	Salmonella	enterica	GCF_054734815.1	Complete Genome	data/raw_genomes/GCF_054734815.1_ASM5473481v1_genomic.fna.gz	Enterobacteriaceae
+G47	Listeria	monocytogenes	GCF_054790915.1	Complete Genome	data/raw_genomes/GCF_054790915.1_ASM5479091v1_genomic.fna.gz	Listeriaceae
+G48	Mycobacterium	tuberculosis	GCF_054790985.1	Complete Genome	data/raw_genomes/GCF_054790985.1_ASM5479098v1_genomic.fna.gz	Mycobacteriaceae
+G49	Mycobacterium	tuberculosis	GCF_054791025.1	Complete Genome	data/raw_genomes/GCF_054791025.1_ASM5479102v1_genomic.fna.gz	Mycobacteriaceae
+G50	Mycobacterium	tuberculosis	GCF_054791035.1	Complete Genome	data/raw_genomes/GCF_054791035.1_ASM5479103v1_genomic.fna.gz	Mycobacteriaceae
+G51	Acinetobacter	baumannii	GCF_054898305.1	Complete Genome	data/raw_genomes/GCF_054898305.1_ASM5489830v1_genomic.fna.gz	Moraxellaceae
+G52	Acinetobacter	baumannii	GCF_054898315.1	Complete Genome	data/raw_genomes/GCF_054898315.1_ASM5489831v1_genomic.fna.gz	Moraxellaceae
+G53	Acinetobacter	baumannii	GCF_054898325.1	Complete Genome	data/raw_genomes/GCF_054898325.1_ASM5489832v1_genomic.fna.gz	Moraxellaceae
+G54	Acinetobacter	baumannii	GCF_054898335.1	Complete Genome	data/raw_genomes/GCF_054898335.1_ASM5489833v1_genomic.fna.gz	Moraxellaceae
+G55	Acinetobacter	baumannii	GCF_054898345.1	Complete Genome	data/raw_genomes/GCF_054898345.1_ASM5489834v1_genomic.fna.gz	Moraxellaceae
+G56	Acinetobacter	baumannii	GCF_054898355.1	Complete Genome	data/raw_genomes/GCF_054898355.1_ASM5489835v1_genomic.fna.gz	Moraxellaceae
+G57	Acinetobacter	baumannii	GCF_054898365.1	Complete Genome	data/raw_genomes/GCF_054898365.1_ASM5489836v1_genomic.fna.gz	Moraxellaceae
+G58	Acinetobacter	baumannii	GCF_054898375.1	Complete Genome	data/raw_genomes/GCF_054898375.1_ASM5489837v1_genomic.fna.gz	Moraxellaceae
+G59	Acinetobacter	baumannii	GCF_054898395.1	Complete Genome	data/raw_genomes/GCF_054898395.1_ASM5489839v1_genomic.fna.gz	Moraxellaceae
+G60	Acinetobacter	baumannii	GCF_054898405.1	Complete Genome	data/raw_genomes/GCF_054898405.1_ASM5489840v1_genomic.fna.gz	Moraxellaceae
+G61	Listeria	monocytogenes	GCF_054899705.1	Complete Genome	data/raw_genomes/GCF_054899705.1_ASM5489970v1_genomic.fna.gz	Listeriaceae
+G62	Streptococcus	pyogenes	GCF_055378755.1	Complete Genome	data/raw_genomes/GCF_055378755.1_ASM5537875v1_genomic.fna.gz	Streptococcaceae
+G63	Streptococcus	pneumoniae	GCF_055380575.1	Complete Genome	data/raw_genomes/GCF_055380575.1_ASM5538057v1_genomic.fna.gz	Streptococcaceae
+G64	Streptococcus	pneumoniae	GCF_055381005.1	Complete Genome	data/raw_genomes/GCF_055381005.1_ASM5538100v1_genomic.fna.gz	Streptococcaceae
+G65	Acinetobacter	baumannii	GCF_055381115.1	Complete Genome	data/raw_genomes/GCF_055381115.1_ASM5538111v1_genomic.fna.gz	Moraxellaceae
+G66	Streptococcus	pneumoniae	GCF_055381415.1	Complete Genome	data/raw_genomes/GCF_055381415.1_ASM5538141v1_genomic.fna.gz	Streptococcaceae
+G67	Acinetobacter	baumannii	GCF_055381525.1	Complete Genome	data/raw_genomes/GCF_055381525.1_ASM5538152v1_genomic.fna.gz	Moraxellaceae
+G68	Streptococcus	pneumoniae	GCF_055381835.1	Complete Genome	data/raw_genomes/GCF_055381835.1_ASM5538183v1_genomic.fna.gz	Streptococcaceae
+G69	Streptococcus	pneumoniae	GCF_055382275.1	Complete Genome	data/raw_genomes/GCF_055382275.1_ASM5538227v1_genomic.fna.gz	Streptococcaceae
+G70	Streptococcus	pneumoniae	GCF_055382695.1	Complete Genome	data/raw_genomes/GCF_055382695.1_ASM5538269v1_genomic.fna.gz	Streptococcaceae
+G71	Pseudomonas	aeruginosa	GCF_055386395.1	Complete Genome	data/raw_genomes/GCF_055386395.1_ASM5538639v1_genomic.fna.gz	Pseudomonadaceae
+G72	Acinetobacter	baumannii	GCF_055386835.1	Complete Genome	data/raw_genomes/GCF_055386835.1_ASM5538683v1_genomic.fna.gz	Moraxellaceae
+G73	Salmonella	enterica	GCF_055390985.1	Complete Genome	data/raw_genomes/GCF_055390985.1_ASM5539098v1_genomic.fna.gz	Enterobacteriaceae
+G74	Pseudomonas	aeruginosa	GCF_055391165.1	Complete Genome	data/raw_genomes/GCF_055391165.1_ASM5539116v1_genomic.fna.gz	Pseudomonadaceae
+G75	Salmonella	enterica	GCF_055391385.1	Complete Genome	data/raw_genomes/GCF_055391385.1_ASM5539138v1_genomic.fna.gz	Enterobacteriaceae
+G76	Salmonella	enterica	GCF_055391765.1	Complete Genome	data/raw_genomes/GCF_055391765.1_ASM5539176v1_genomic.fna.gz	Enterobacteriaceae
+G77	Salmonella	enterica	GCF_055392165.1	Complete Genome	data/raw_genomes/GCF_055392165.1_ASM5539216v1_genomic.fna.gz	Enterobacteriaceae
+G78	Staphylococcus	aureus	GCF_055392225.1	Complete Genome	data/raw_genomes/GCF_055392225.1_ASM5539222v1_genomic.fna.gz	Staphylococcaceae
+G79	Salmonella	enterica	GCF_055392385.1	Complete Genome	data/raw_genomes/GCF_055392385.1_ASM5539238v1_genomic.fna.gz	Enterobacteriaceae
+G80	Staphylococcus	aureus	GCF_055392865.1	Complete Genome	data/raw_genomes/GCF_055392865.1_ASM5539286v1_genomic.fna.gz	Staphylococcaceae
+G81	Salmonella	enterica	GCF_055392925.1	Complete Genome	data/raw_genomes/GCF_055392925.1_ASM5539292v1_genomic.fna.gz	Enterobacteriaceae
+G82	Staphylococcus	aureus	GCF_055393085.1	Complete Genome	data/raw_genomes/GCF_055393085.1_ASM5539308v1_genomic.fna.gz	Staphylococcaceae
+G83	Salmonella	enterica	GCF_055393125.1	Complete Genome	data/raw_genomes/GCF_055393125.1_ASM5539312v1_genomic.fna.gz	Enterobacteriaceae
+G84	Staphylococcus	aureus	GCF_055393695.1	Complete Genome	data/raw_genomes/GCF_055393695.1_ASM5539369v1_genomic.fna.gz	Staphylococcaceae
+G85	Salmonella	enterica	GCF_055393775.1	Complete Genome	data/raw_genomes/GCF_055393775.1_ASM5539377v1_genomic.fna.gz	Enterobacteriaceae
+G86	Staphylococcus	aureus	GCF_055394105.1	Complete Genome	data/raw_genomes/GCF_055394105.1_ASM5539410v1_genomic.fna.gz	Staphylococcaceae
+G87	Salmonella	enterica	GCF_055394145.1	Complete Genome	data/raw_genomes/GCF_055394145.1_ASM5539414v1_genomic.fna.gz	Enterobacteriaceae
+G88	Staphylococcus	aureus	GCF_055394255.1	Complete Genome	data/raw_genomes/GCF_055394255.1_ASM5539425v1_genomic.fna.gz	Staphylococcaceae
+G89	Staphylococcus	aureus	GCF_055394555.1	Complete Genome	data/raw_genomes/GCF_055394555.1_ASM5539455v1_genomic.fna.gz	Staphylococcaceae
+G90	Staphylococcus	aureus	GCF_055394755.1	Complete Genome	data/raw_genomes/GCF_055394755.1_ASM5539475v1_genomic.fna.gz	Staphylococcaceae
+G91	Staphylococcus	aureus	GCF_055395395.1	Complete Genome	data/raw_genomes/GCF_055395395.1_ASM5539539v1_genomic.fna.gz	Staphylococcaceae
+G92	Staphylococcus	aureus	GCF_055395785.1	Complete Genome	data/raw_genomes/GCF_055395785.1_ASM5539578v1_genomic.fna.gz	Staphylococcaceae
+G93	Staphylococcus	aureus	GCF_055396015.1	Complete Genome	data/raw_genomes/GCF_055396015.1_ASM5539601v1_genomic.fna.gz	Staphylococcaceae
+G94	Staphylococcus	aureus	GCF_055396615.1	Complete Genome	data/raw_genomes/GCF_055396615.1_ASM5539661v1_genomic.fna.gz	Staphylococcaceae
+G95	Staphylococcus	aureus	GCF_055396715.1	Complete Genome	data/raw_genomes/GCF_055396715.1_ASM5539671v1_genomic.fna.gz	Staphylococcaceae
+G96	Staphylococcus	aureus	GCF_055398275.1	Complete Genome	data/raw_genomes/GCF_055398275.1_ASM5539827v1_genomic.fna.gz	Staphylococcaceae
+G97	Pseudomonas	aeruginosa	GCF_055432695.1	Complete Genome	data/raw_genomes/GCF_055432695.1_ASM5543269v1_genomic.fna.gz	Pseudomonadaceae
+G98	Pseudomonas	aeruginosa	GCF_055432725.1	Complete Genome	data/raw_genomes/GCF_055432725.1_ASM5543272v1_genomic.fna.gz	Pseudomonadaceae
+G99	Pseudomonas	aeruginosa	GCF_055433015.1	Complete Genome	data/raw_genomes/GCF_055433015.1_ASM5543301v1_genomic.fna.gz	Pseudomonadaceae
+G100	Pseudomonas	aeruginosa	GCF_055433025.1	Complete Genome	data/raw_genomes/GCF_055433025.1_ASM5543302v1_genomic.fna.gz	Pseudomonadaceae
+G101	Pseudomonas	aeruginosa	GCF_055433155.1	Complete Genome	data/raw_genomes/GCF_055433155.1_ASM5543315v1_genomic.fna.gz	Pseudomonadaceae
+G102	Pseudomonas	aeruginosa	GCF_055433165.1	Complete Genome	data/raw_genomes/GCF_055433165.1_ASM5543316v1_genomic.fna.gz	Pseudomonadaceae
+G103	Pseudomonas	aeruginosa	GCF_055433175.1	Complete Genome	data/raw_genomes/GCF_055433175.1_ASM5543317v1_genomic.fna.gz	Pseudomonadaceae
+G104	Pseudomonas	aeruginosa	GCF_055433185.1	Complete Genome	data/raw_genomes/GCF_055433185.1_ASM5543318v1_genomic.fna.gz	Pseudomonadaceae
+G105	Pseudomonas	aeruginosa	GCF_055433215.1	Complete Genome	data/raw_genomes/GCF_055433215.1_ASM5543321v1_genomic.fna.gz	Pseudomonadaceae
+G106	Acinetobacter	baumannii	GCF_055475405.1	Complete Genome	data/raw_genomes/GCF_055475405.1_ASM5547540v1_genomic.fna.gz	Moraxellaceae
+G107	Escherichia	coli	GCF_055697635.1	Complete Genome	data/raw_genomes/GCF_055697635.1_ASM5569763v1_genomic.fna.gz	Enterobacteriaceae
+G108	Escherichia	coli	GCF_055698055.1	Complete Genome	data/raw_genomes/GCF_055698055.1_ASM5569805v1_genomic.fna.gz	Enterobacteriaceae
+G109	Escherichia	coli	GCF_055698065.1	Complete Genome	data/raw_genomes/GCF_055698065.1_ASM5569806v1_genomic.fna.gz	Enterobacteriaceae
+G110	Escherichia	coli	GCF_055698175.1	Complete Genome	data/raw_genomes/GCF_055698175.1_ASM5569817v1_genomic.fna.gz	Enterobacteriaceae
+G111	Escherichia	coli	GCF_055698185.1	Complete Genome	data/raw_genomes/GCF_055698185.1_ASM5569818v1_genomic.fna.gz	Enterobacteriaceae
+G112	Escherichia	coli	GCF_055698195.1	Complete Genome	data/raw_genomes/GCF_055698195.1_ASM5569819v1_genomic.fna.gz	Enterobacteriaceae
+G113	Escherichia	coli	GCF_055698205.1	Complete Genome	data/raw_genomes/GCF_055698205.1_ASM5569820v1_genomic.fna.gz	Enterobacteriaceae
+G114	Escherichia	coli	GCF_055698215.1	Complete Genome	data/raw_genomes/GCF_055698215.1_ASM5569821v1_genomic.fna.gz	Enterobacteriaceae
+G115	Staphylococcus	aureus	GCF_055699085.1	Complete Genome	data/raw_genomes/GCF_055699085.1_ASM5569908v1_genomic.fna.gz	Staphylococcaceae
+G116	Escherichia	coli	GCF_055814345.1	Complete Genome	data/raw_genomes/GCF_055814345.1_ASM5581434v1_genomic.fna.gz	Enterobacteriaceae
+G117	Escherichia	coli	GCF_055814355.1	Complete Genome	data/raw_genomes/GCF_055814355.1_ASM5581435v1_genomic.fna.gz	Enterobacteriaceae
+G118	Escherichia	coli	GCF_055814365.1	Complete Genome	data/raw_genomes/GCF_055814365.1_ASM5581436v1_genomic.fna.gz	Enterobacteriaceae
+G119	Escherichia	coli	GCF_055814375.1	Complete Genome	data/raw_genomes/GCF_055814375.1_ASM5581437v1_genomic.fna.gz	Enterobacteriaceae
+G120	Escherichia	coli	GCF_055814385.1	Complete Genome	data/raw_genomes/GCF_055814385.1_ASM5581438v1_genomic.fna.gz	Enterobacteriaceae
+G121	Escherichia	coli	GCF_055814395.1	Complete Genome	data/raw_genomes/GCF_055814395.1_ASM5581439v1_genomic.fna.gz	Enterobacteriaceae
+G122	Klebsiella	pneumoniae	GCF_055824705.1	Complete Genome	data/raw_genomes/GCF_055824705.1_ASM5582470v1_genomic.fna.gz	Enterobacteriaceae
+G123	Klebsiella	pneumoniae	GCF_055824715.1	Complete Genome	data/raw_genomes/GCF_055824715.1_ASM5582471v1_genomic.fna.gz	Enterobacteriaceae
+G124	Klebsiella	pneumoniae	GCF_055824725.1	Complete Genome	data/raw_genomes/GCF_055824725.1_ASM5582472v1_genomic.fna.gz	Enterobacteriaceae
+G125	Klebsiella	pneumoniae	GCF_055824735.1	Complete Genome	data/raw_genomes/GCF_055824735.1_ASM5582473v1_genomic.fna.gz	Enterobacteriaceae
+G126	Klebsiella	pneumoniae	GCF_055824745.1	Complete Genome	data/raw_genomes/GCF_055824745.1_ASM5582474v1_genomic.fna.gz	Enterobacteriaceae
+G127	Klebsiella	pneumoniae	GCF_055824765.1	Complete Genome	data/raw_genomes/GCF_055824765.1_ASM5582476v1_genomic.fna.gz	Enterobacteriaceae
+G128	Klebsiella	pneumoniae	GCF_055824775.1	Complete Genome	data/raw_genomes/GCF_055824775.1_ASM5582477v1_genomic.fna.gz	Enterobacteriaceae
+G129	Klebsiella	pneumoniae	GCF_055824795.1	Complete Genome	data/raw_genomes/GCF_055824795.1_ASM5582479v1_genomic.fna.gz	Enterobacteriaceae
+G130	Klebsiella	pneumoniae	GCF_055824805.1	Complete Genome	data/raw_genomes/GCF_055824805.1_ASM5582480v1_genomic.fna.gz	Enterobacteriaceae
+G131	Klebsiella	pneumoniae	GCF_055824905.1	Complete Genome	data/raw_genomes/GCF_055824905.1_ASM5582490v1_genomic.fna.gz	Enterobacteriaceae
+G132	Klebsiella	pneumoniae	GCF_055824915.1	Complete Genome	data/raw_genomes/GCF_055824915.1_ASM5582491v1_genomic.fna.gz	Enterobacteriaceae
+G133	Klebsiella	pneumoniae	GCF_055825125.1	Complete Genome	data/raw_genomes/GCF_055825125.1_ASM5582512v1_genomic.fna.gz	Enterobacteriaceae
+G134	Klebsiella	pneumoniae	GCF_055825135.1	Complete Genome	data/raw_genomes/GCF_055825135.1_ASM5582513v1_genomic.fna.gz	Enterobacteriaceae
+G135	Klebsiella	pneumoniae	GCF_055825155.1	Complete Genome	data/raw_genomes/GCF_055825155.1_ASM5582515v1_genomic.fna.gz	Enterobacteriaceae
+G136	Pseudomonas	aeruginosa	GCF_056008435.1	Complete Genome	data/raw_genomes/GCF_056008435.1_ASM5600843v1_genomic.fna.gz	Pseudomonadaceae
+G137	Pseudomonas	aeruginosa	GCF_056008605.1	Complete Genome	data/raw_genomes/GCF_056008605.1_ASM5600860v1_genomic.fna.gz	Pseudomonadaceae
+G138	Pseudomonas	aeruginosa	GCF_056008615.1	Complete Genome	data/raw_genomes/GCF_056008615.1_ASM5600861v1_genomic.fna.gz	Pseudomonadaceae
+G139	Klebsiella	pneumoniae	GCF_056092675.1	Complete Genome	data/raw_genomes/GCF_056092675.1_ASM5609267v1_genomic.fna.gz	Enterobacteriaceae
+G140	Listeria	monocytogenes	GCF_056232715.1	Complete Genome	data/raw_genomes/GCF_056232715.1_ASM5623271v1_genomic.fna.gz	Listeriaceae
+G141	Pseudomonas	aeruginosa	GCF_056236775.1	Complete Genome	data/raw_genomes/GCF_056236775.1_ASM5623677v1_genomic.fna.gz	Pseudomonadaceae
+G142	Escherichia	coli	GCF_056237465.1	Complete Genome	data/raw_genomes/GCF_056237465.1_ASM5623746v1_genomic.fna.gz	Enterobacteriaceae
+G143	Listeria	monocytogenes	GCF_056239255.1	Complete Genome	data/raw_genomes/GCF_056239255.1_ASM5623925v1_genomic.fna.gz	Listeriaceae
+G144	Listeria	monocytogenes	GCF_056239325.1	Complete Genome	data/raw_genomes/GCF_056239325.1_ASM5623932v1_genomic.fna.gz	Listeriaceae
+G145	Listeria	monocytogenes	GCF_056239845.1	Complete Genome	data/raw_genomes/GCF_056239845.1_ASM5623984v1_genomic.fna.gz	Listeriaceae
+G146	Listeria	monocytogenes	GCF_056239965.1	Complete Genome	data/raw_genomes/GCF_056239965.1_ASM5623996v1_genomic.fna.gz	Listeriaceae
+G147	Listeria	monocytogenes	GCF_056240395.1	Complete Genome	data/raw_genomes/GCF_056240395.1_ASM5624039v1_genomic.fna.gz	Listeriaceae
+G148	Listeria	monocytogenes	GCF_056240465.1	Complete Genome	data/raw_genomes/GCF_056240465.1_ASM5624046v1_genomic.fna.gz	Listeriaceae
+G149	Listeria	monocytogenes	GCF_056240975.1	Complete Genome	data/raw_genomes/GCF_056240975.1_ASM5624097v1_genomic.fna.gz	Listeriaceae
+G150	Listeria	monocytogenes	GCF_056241085.1	Complete Genome	data/raw_genomes/GCF_056241085.1_ASM5624108v1_genomic.fna.gz	Listeriaceae
+G151	Listeria	monocytogenes	GCF_056241555.1	Complete Genome	data/raw_genomes/GCF_056241555.1_ASM5624155v1_genomic.fna.gz	Listeriaceae
+G152	Listeria	monocytogenes	GCF_056241665.1	Complete Genome	data/raw_genomes/GCF_056241665.1_ASM5624166v1_genomic.fna.gz	Listeriaceae
+G153	Listeria	monocytogenes	GCF_056242145.1	Complete Genome	data/raw_genomes/GCF_056242145.1_ASM5624214v1_genomic.fna.gz	Listeriaceae
+G154	Mycobacterium	tuberculosis	GCF_977011355.1	Complete Genome	data/raw_genomes/GCF_977011355.1_K34X0146_genomic.fna.gz	Mycobacteriaceae
+G155	Mycobacterium	tuberculosis	GCF_977011365.1	Complete Genome	data/raw_genomes/GCF_977011365.1_K51TAT086_genomic.fna.gz	Mycobacteriaceae
+G156	Mycobacterium	tuberculosis	GCF_977011405.1	Complete Genome	data/raw_genomes/GCF_977011405.1_K39T0596_genomic.fna.gz	Mycobacteriaceae
+G157	Mycobacterium	tuberculosis	GCF_977011435.1	Complete Genome	data/raw_genomes/GCF_977011435.1_K49KI114_genomic.fna.gz	Mycobacteriaceae
+G158	Mycobacterium	tuberculosis	GCF_977011475.1	Complete Genome	data/raw_genomes/GCF_977011475.1_K31X0989_genomic.fna.gz	Mycobacteriaceae
+G159	Mycobacterium	tuberculosis	GCF_977011495.1	Complete Genome	data/raw_genomes/GCF_977011495.1_K17T0895_genomic.fna.gz	Mycobacteriaceae
+G160	Mycobacterium	tuberculosis	GCF_977011515.1	Complete Genome	data/raw_genomes/GCF_977011515.1_K22F0002_genomic.fna.gz	Mycobacteriaceae
+G161	Mycobacterium	tuberculosis	GCF_977011555.1	Complete Genome	data/raw_genomes/GCF_977011555.1_K35X0801_genomic.fna.gz	Mycobacteriaceae
+G162	Mycobacterium	tuberculosis	GCF_977011595.1	Complete Genome	data/raw_genomes/GCF_977011595.1_K26T1158_genomic.fna.gz	Mycobacteriaceae
+G163	Mycobacterium	tuberculosis	GCF_978422695.1	Complete Genome	data/raw_genomes/GCF_978422695.1_CHPF138_genomic.fna.gz	Mycobacteriaceae
+G164	Mycobacterium	tuberculosis	GCF_982191695.1	Complete Genome	data/raw_genomes/GCF_982191695.1_H37Rv_CN_genomic.fna.gz	Mycobacteriaceae
+G165	Mycobacterium	tuberculosis	GCF_982191705.1	Complete Genome	data/raw_genomes/GCF_982191705.1_A2018772_genomic.fna.gz	Mycobacteriaceae
