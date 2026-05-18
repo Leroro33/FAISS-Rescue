@@ -12,3 +12,11 @@ posmm_rescue_reads.fna
 posmm_ref_genomes/
 results/metrics/vote_sensitivity_predictions_opq.tsv
 results/metrics/posmm_rescue_read_order.tsv
+
+# oldstyle hard-close large artifacts
+data_hardclose_oldstyle/
+embeddings_hardclose_oldstyle/
+indices_hardclose_oldstyle/
+results_hardclose_oldstyle/retrieval_hits/
+*.index
+*.npy
