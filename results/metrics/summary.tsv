@@ -1,0 +1,4 @@
+index	n_rescue_reads	kraken_genus_P	kraken_genus_R	kraken_genus_F1	hybrid_genus_P	hybrid_genus_R	hybrid_genus_F1	hybrid_species_P	hybrid_species_R	hybrid_species_F1	delta_genus_F1
+flat	1887591	0.0	0.0	0.0	0.8541	0.8541	0.8541	0.8516	0.8516	0.8516	0.8541
+opq	1887591	0.0	0.0	0.0	0.5449	0.5449	0.5449	0.4887	0.4887	0.4887	0.5449
+pq	1887591	0.0	0.0	0.0	0.3844	0.3844	0.3844	0.3078	0.3078	0.3078	0.3844
